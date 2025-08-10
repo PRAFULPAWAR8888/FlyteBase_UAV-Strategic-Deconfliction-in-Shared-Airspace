@@ -15,7 +15,7 @@ An AI-powered system that detects and resolves drone flight conflicts in real-ti
 
 ## Demo
 
-[![Drone Deconfliction System Demo](path/to/Demo.png)](https://www.loom.com/share/3b2f8113340e4b8aa9894c4ab6cfd2a4)
+[![Drone Deconfliction System Demo](https://github.com/PRAFULPAWAR8888/FlyteBase_UAV-Strategic-Deconfliction-in-Shared-Airspace/blob/e2d3cd9d934608322068bc93cf6e62acac4016a9/Demo.png)](https://www.loom.com/share/3b2f8113340e4b8aa9894c4ab6cfd2a4)
 
 
 # NO conflict visualiztion
