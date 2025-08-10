@@ -1,6 +1,6 @@
-#  FlytBase_UAV-Strategic-Deconfliction-in-Shared-Airspace
+# Drone Deconfliction System
+An AI-powered system that detects and resolves drone flight conflicts in real-time to ensure safe airspace management.
 
-This is a strategic deconfliction system designed for drone flight management, ensuring that drones do not end up in the same position at the same time, thus preventing potential collisions.
 
 ## 📽️ Project Demo Video
 The visualization shows real-time drone flight paths with color-coded safety status.
