@@ -40,16 +40,17 @@ The altitude-time graph reveals overlapping trajectories at the same time, confi
 
 
 
-## HOW To Launch this code:
+## HOW To Launch This Code:-
 1. import this code in your python IDE or anaconda environment
 2. make sure that all libraries are imported
 3. and run it
 4. you can get all visualizaitons
     
 
-## used Ai technology
-1.GAMA- for ppt
-2.Chatgpt- for understand Code
+## Tools & AI Assistance
+
+- **ChatGPT** – Used to understand complex coding concepts and improve algorithm logic.
+- **Gamma** – Used to create clear and visually appealing presentation slides (PPT).
 
 
 
