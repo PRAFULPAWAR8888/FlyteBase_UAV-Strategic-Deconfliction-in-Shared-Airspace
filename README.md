@@ -1,5 +1,13 @@
 # Drone Deconfliction System
-An AI-powered system that detects and resolves drone flight conflicts in real-time to ensure safe airspace management.
+An AI-powered system that detects and resolves drone flight conflicts in real-time to ensure safe airspace management.With the rise of drone usage, avoiding mid-air collisions has become critical. This project uses AI algorithms to predict and prevent drone flight path conflicts before they happen.
+
+
+## Features
+- Real-time drone path tracking
+- AI-based conflict prediction
+- Automated route adjustments
+- 3D/4D visualization of drone movement
+- Support for multiple drones simultaneously
 
 
 ## 📽️ Project Demo Video
