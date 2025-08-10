@@ -5,33 +5,29 @@ This is a strategic deconfliction system designed for drone flight management, e
 ## 📽️ Project Demo Video
 The visualization shows real-time drone flight paths with color-coded safety status.
 
-Green paths indicate no conflict — drones are flying in separate airspace without risk.
-
-Red paths indicate a conflict — drones are predicted to meet at the same position and time.
-This visual approach makes it easy to spot potential collisions and verify that the strategic deconfliction system is working effectively.
-
-# conflict visualiztion
+# NO conflict visualiztion
 
 [![Watch the video](https://img.youtube.com/vi/zrbjQiXEZLc/maxresdefault.jpg)](https://youtu.be/zrbjQiXEZLc)
 
 
-# no conflict visualizaton
+#  Conflict visualizaton
 [![Watch the video](https://img.youtube.com/vi/vomIRWt0Uso/maxresdefault.jpg)](https://youtu.be/vomIRWt0Uso)
 
 
 
 
 
-##
+## HOW To Launch this code:
+1. import this code in your python IDE or anaconda environment
+2. make sure that all libraries are imported
+3. and run it
+4. you can get all visualizaitons
+    
 
+## used Ai technology
+1.GAMA- for ppt
+2.Chatgpt- for understand Code
 
-
-
-## 🛠️ Tools and Technologies Used
-
-  .
-
-- **Software & Frameworks**:
 
 
 ## 📧 Contact
