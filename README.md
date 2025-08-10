@@ -12,21 +12,31 @@ An AI-powered system that detects and resolves drone flight conflicts in real-ti
 
 ## 📽️ Project Demo Video
 
-
-## Demo
-
 [![Drone Deconfliction System Demo](https://github.com/PRAFULPAWAR8888/FlyteBase_UAV-Strategic-Deconfliction-in-Shared-Airspace/blob/e2d3cd9d934608322068bc93cf6e62acac4016a9/Demo.png)](https://www.loom.com/share/3b2f8113340e4b8aa9894c4ab6cfd2a4)
 
 
-# NO conflict visualiztion
+## Project Visualization:-
+
+
+### No Conflict Visualization
+
+The 4D view (3D space + time) shows three drones — PRIMARY (pink), DRONE_1 (yellow), and DRONE_2 (green) — flying without any collision risk.  
+AI-predicted future positions (yellow circles) align with actual paths, and no red ‘X’ conflict markers appear.  
+The altitude-time graph confirms safe vertical and horizontal separation.  
+**Conclusion:** This scenario demonstrates that the AI is accurately predicting drone positions and maintaining safe distances, ensuring smooth and conflict-free flights.
+
 
 [![Watch the video](https://img.youtube.com/vi/zrbjQiXEZLc/maxresdefault.jpg)](https://youtu.be/zrbjQiXEZLc)
 
 
-#  Conflict visualizaton
+### Conflict Visualization
+
+The 4D view (3D space + time) shows three drones — PRIMARY (pink), DRONE_1 (yellow), and DRONE_2 (green) — with AI-predicted future positions (yellow circles).  
+Here, the AI detects a potential collision point, marked by a red ‘X’, indicating where flight paths would intersect.  
+The altitude-time graph reveals overlapping trajectories at the same time, confirming the risk.  
+**Conclusion:** This scenario shows the AI’s ability to identify and flag future conflicts in advance, allowing for timely route adjustments to avoid collisions.
+
 [![Watch the video](https://img.youtube.com/vi/vomIRWt0Uso/maxresdefault.jpg)](https://youtu.be/vomIRWt0Uso)
-
-
 
 
 
