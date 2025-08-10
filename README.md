@@ -11,7 +11,12 @@ An AI-powered system that detects and resolves drone flight conflicts in real-ti
 
 
 ## 📽️ Project Demo Video
-The visualization shows real-time drone flight paths with color-coded safety status.
+
+
+## Demo
+
+[![Drone Deconfliction System Demo](path/to/thumbnail.png)](https://www.loom.com/share/3b2f8113340e4b8aa9894c4ab6cfd2a4)
+
 
 # NO conflict visualiztion
 
